@@ -22,8 +22,8 @@ Zadanie 1: Wzorzec Adapter
 
 WAŻNE:
 - Aby uruchomić Zadanie 1:
-- Usuń komentarze "/* <===+Znacznik do zadania 1".
-- Dodaj komentarz do zadania 2: "/* <===+Znacznik do zadania 2".
+- Edytuj komentarz "/* <===+Znacznik do zadania 1" na "// <===+Znacznik do zadania 1"
+- Upewnij się, że jest dodany komentarz do zadania 2: "/* <===+Znacznik do zadania 2".
 
 Zadanie 2: Wzorzec Dekorator
 ----------------------------
@@ -36,9 +36,8 @@ Zadanie 2: Wzorzec Dekorator
 
 WAŻNE:
 - Aby uruchomić Zadanie 2:
-- Usuń komentarze "/* <===+Znacznik do zadania 2".
-- Dodaj komentarz do zadania 1: "/* <===+Znacznik do zadania 1".
+- Edytuj komentarz "/* <===+Znacznik do zadania 2" na "// <===+Znacznik do zadania 2"
+- Upewnij się, że jest dodany komentarz do zadania 1: "/* <===+Znacznik do zadania 1".
 
 ************************** UWAGI ************************************************
-
 - Użycie inteligentnych wskaźników (`std::shared_ptr`) w zadaniu 2 zapewnia automatyczne zarządzanie pamięcią.
